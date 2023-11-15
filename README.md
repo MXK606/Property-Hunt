@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Property Hunt** is a Python script designed to scrape real estate data from the Bayut website, extract valuable property information, and save it into a CSV file. This tool utilizes popular Python libraries such as `requests`, `BeautifulSoup`, `numpy`, `pandas`, and `json` to facilitate web scraping and data manipulation.
+**Property Hunt** is a Python script designed to scrape real estate data from the Bayut website, extract valuable property & agent information, and save it into a CSV file. This tool utilizes popular Python libraries such as `requests`, `BeautifulSoup`, `numpy`, `pandas`, and `json` to facilitate web scraping and data manipulation.
 
 ## Dependencies
 
